@@ -68,21 +68,21 @@ python app.py
 ### For frontend
 npm start
 ## Usage
-Register an Account: Create a new account or log in to your existing account.
-Connect Bank Account: Use the integration feature to securely connect your bank account.
-Start Tracking Expenses: The application will automatically track and categorize your expenses.
-View Insights: Access personalized budgeting recommendations and financial forecasts through the dashboard.
+**Register an Account**: Create a new account or log in to your existing account.
+**Connect Bank Account**: Use the integration feature to securely connect your bank account.
+**Start Tracking Expenses**: The application will automatically track and categorize your expenses.
+**View Insights**: Access personalized budgeting recommendations and financial forecasts through the dashboard.
 ## Contributing
 We welcome contributions to MoneySenseAI! If you'd like to contribute, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes and commit them (git commit -m 'Add your feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a Pull Request.
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/YourFeature).
+3. Make your changes and commit them (git commit -m 'Add your feature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Open a Pull Request.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-##  Contact: For questions or suggestions, please reach out at laxmansingh2703@gmail.com.
+### Contact: For questions or suggestions, please reach out at laxmansingh2703@gmail.com.
    
