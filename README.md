@@ -50,11 +50,11 @@ cd MoneySenseAI
 3. Install the required dependencies:
 
 
-# For backend
+## For backend
 cd backend
 pip install -r requirements.txt
 
-# For frontend
+## For frontend
 cd frontend
 npm install
 4. Set up the environment variables for API keys and database configuration.
@@ -62,12 +62,12 @@ npm install
 5. Run the application:
 
 
-# For backend
+### For backend
 python app.py
 
 # For frontend
 npm start
-#Usage
+## Usage
 Register an Account: Create a new account or log in to your existing account.
 Connect Bank Account: Use the integration feature to securely connect your bank account.
 Start Tracking Expenses: The application will automatically track and categorize your expenses.
@@ -75,7 +75,7 @@ View Insights: Access personalized budgeting recommendations and financial forec
 Contributing
 We welcome contributions to MoneySenseAI! If you'd like to contribute, please follow these steps:
 
-#Fork the repository.
+##Fork the repository.
 Create a new branch (git checkout -b feature/YourFeature).
 Make your changes and commit them (git commit -m 'Add your feature').
 Push to the branch (git push origin feature/YourFeature).
