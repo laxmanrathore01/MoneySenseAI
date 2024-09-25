@@ -68,10 +68,10 @@ python app.py
 ### For frontend
 npm start
 ## Usage
-**Register an Account**: Create a new account or log in to your existing account.
-**Connect Bank Account**: Use the integration feature to securely connect your bank account.
-**Start Tracking Expenses**: The application will automatically track and categorize your expenses.
-**View Insights**: Access personalized budgeting recommendations and financial forecasts through the dashboard.
+- **Register an Account**: Create a new account or log in to your existing account.
+- **Connect Bank Account**: Use the integration feature to securely connect your bank account.
+- **Start Tracking Expenses**: The application will automatically track and categorize your expenses.
+- **View Insights**: Access personalized budgeting recommendations and financial forecasts through the dashboard.
 ## Contributing
 We welcome contributions to MoneySenseAI! If you'd like to contribute, please follow these steps:
 
