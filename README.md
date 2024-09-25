@@ -65,7 +65,7 @@ npm install
 ### For backend
 python app.py
 
-# For frontend
+### For frontend
 npm start
 ## Usage
 Register an Account: Create a new account or log in to your existing account.
@@ -75,7 +75,7 @@ View Insights: Access personalized budgeting recommendations and financial forec
 Contributing
 We welcome contributions to MoneySenseAI! If you'd like to contribute, please follow these steps:
 
-##Fork the repository.
+## Fork the repository.
 Create a new branch (git checkout -b feature/YourFeature).
 Make your changes and commit them (git commit -m 'Add your feature').
 Push to the branch (git push origin feature/YourFeature).
